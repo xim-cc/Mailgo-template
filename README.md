@@ -1,6 +1,6 @@
 # Manage your email marketing using AI (Nextjs)
-
- []!(https://htmlrev.com/images/mailgo-nextjs-template.jpg)
+ 
+https://htmlrev.com/images/mailgo-nextjs-template.jpg
 
 ## Getting Started
 
